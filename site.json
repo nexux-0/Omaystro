@@ -1,0 +1,138 @@
+{
+  "currency": "dh",
+  "categories": [
+    {
+      "id": "pizza",
+      "label": "Pizza",
+      "items": [
+        { "name": "Margherita", "price": { "m": 35, "l": 50 }, "meta": "M / L" },
+        { "name": "Forestière", "price": { "m": 40, "l": 60 }, "meta": "M / L" },
+        { "name": "Thon", "price": { "m": 45, "l": 65 }, "meta": "M / L" },
+        { "name": "Steak Hachée", "price": { "m": 50, "l": 70 }, "meta": "M / L" },
+        { "name": "La Folle", "price": { "m": 50, "l": 70 }, "meta": "M / L" },
+        { "name": "Cinq Fromages", "price": { "m": 60, "l": 80 }, "meta": "M / L" },
+        { "name": "Marechiaro", "price": { "m": 65, "l": 85 }, "meta": "M / L" },
+        { "name": "César", "price": { "m": 70, "l": 90 }, "meta": "M / L" },
+        { "name": "Pepperoni", "price": { "m": 70, "l": 90 }, "meta": "M / L" },
+        { "name": "Bacon", "price": { "m": 70, "l": 90 }, "meta": "M / L" },
+        { "name": "Festina", "price": { "m": 70, "l": 90 }, "meta": "M / L" },
+        { "name": "Royale", "price": { "m": 90, "l": 110 }, "meta": "M / L" },
+        { "name": "4 Saisons", "price": { "m": 70, "l": 90 }, "meta": "M / L" }
+      ]
+    },
+    {
+      "id": "pates",
+      "label": "Pâtes",
+      "items": [
+        { "name": "Bolognaise", "price": 60 },
+        { "name": "La Truffe", "price": 65 },
+        { "name": "La Biologie", "price": 50 },
+        { "name": "Arabica", "price": 40 },
+        { "name": "Lasagne Bolone", "price": 60 },
+        { "name": "Lasagne Fruits de Mer", "price": 80 },
+        { "name": "Poulet Champignons", "price": 65 },
+        { "name": "Clandestina", "price": 80 },
+        { "name": "5 Fromages", "price": 65 },
+        { "name": "Carbonara", "price": 65 },
+        { "name": "Gambas au Pistou", "price": 85 }
+      ]
+    },
+    {
+      "id": "burgers",
+      "label": "Burgers",
+      "items": [
+        { "name": "Le Classique", "price": 65 },
+        { "name": "El Pollo", "price": 65 },
+        { "name": "Quinqua", "price": 65 },
+        { "name": "Chilly", "price": 65 },
+        { "name": "Double Steak", "price": 85 },
+        { "name": "Crispy", "price": 65 },
+        { "name": "American", "price": 75 },
+        { "name": "Fusion", "price": 85 }
+      ]
+    },
+    {
+      "id": "tacos",
+      "label": "Tacos",
+      "items": [
+        { "name": "Poulet Crispy", "price": 40 },
+        { "name": "Viande Hachée", "price": 45 },
+        { "name": "Mixte", "price": 50 },
+        { "name": "Cordon Bleu", "price": 50 },
+        { "name": "Fruits de Mer", "price": 55 }
+      ]
+    },
+    {
+      "id": "plats",
+      "label": "Plats",
+      "items": [
+        { "name": "Poulet Alfredo O’Maystro", "price": 70 },
+        { "name": "Émincé de Poulet", "price": 75 },
+        { "name": "Escalope de Poulet à la Milanaise", "price": 80 },
+        { "name": "Cordon Bleu", "price": 85 },
+        { "name": "Coquelet Rôti au four", "price": 85 },
+        { "name": "Brochettes de Poulet", "price": 80 },
+        { "name": "Cassolettes Terre-Mer", "price": 80 },
+        { "name": "Pavé de Saumon", "price": 125 },
+        { "name": "Poisson Dorade", "price": 130 },
+        { "name": "Brochette de Poisson", "price": 120 },
+
+        { "name": "Émincé de Filet Boeuf", "price": 115 },
+        { "name": "Brochettes de Boeuf", "price": 105 },
+        { "name": "Entrecôte Grillée", "price": 100 },
+        { "name": "Mignon à la Grille", "price": 140 },
+        { "name": "Poulet Rôti à la Marocaine", "price": 45 },
+        { "name": "Tajine au Poulet", "price": 60 },
+        { "name": "Fajitas Filet de Boeuf", "price": 115 },
+        { "name": "Chicken Kebab", "price": 70 },
+        { "name": "Riz Façon du Chef", "price": 110 },
+        { "name": "Poulet Saltimbocca", "price": 70 }
+      ]
+    },
+    {
+      "id": "salades",
+      "label": "Salades",
+      "items": [
+        { "name": "La Niçoise", "price": 45 },
+        { "name": "Passion", "price": 55 },
+        { "name": "Gourmande", "price": 65 },
+        { "name": "Exotique", "price": 95 },
+        { "name": "César Terre & Mer", "price": 75 },
+        { "name": "Gourmande Fruits de Mer", "price": 90 },
+        { "name": "Salade Grecque", "price": 50 },
+        { "name": "Salade du Chef", "price": 105 }
+      ]
+    },
+    {
+      "id": "kids",
+      "label": "Kids",
+      "note": "Under 13. (All served with fries, drink, and ice cream scoop)",
+      "items": [
+        { "name": "Paw Patrol Nuggets", "price": 55 },
+        { "name": "Macha & Michka Cheeseburger", "price": 55 },
+        { "name": "Pony Penne ou Spaghetti", "price": 55 },
+        { "name": "Elsa Tacos Maison", "price": 55 }
+      ]
+    },
+    {
+      "id": "sandwich",
+      "label": "Sandwich",
+      "note": "Classic panini and grilled sandwich style section. Add your exact items/prices by updating data/menu.json or uploading your menu photo.",
+      "items": [
+        { "name": "Panini (see selection in restaurant)", "price": null },
+        { "name": "Grilled Sandwich (see selection in restaurant)", "price": null }
+      ]
+    },
+    {
+      "id": "crepes",
+      "label": "Crêpes",
+      "items": [
+        { "name": "Crêpes Salées", "price": 40 },
+        { "name": "Crêpes Fromage", "price": 35 },
+        { "name": "Crêpes Poulet Champignons", "price": 40 },
+        { "name": "Crêpes Nutella", "price": 30 },
+        { "name": "Crêpes Caramel", "price": 30 }
+      ]
+    }
+  ]
+}
